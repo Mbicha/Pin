@@ -1,4 +1,4 @@
-#Pin
+#Default Pin
 pin = 1234
 
 #Counter
